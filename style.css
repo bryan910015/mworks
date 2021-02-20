@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    border: 1px solid blue;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 16px;
+    text-decoration:line-through;
+    letter-spacing: 2px;
+}
+
